@@ -109,4 +109,4 @@ theme: freemind.386
 deploy:
   type: git
   repo: https://github.com/i11box/i11box.github.io.git
-  branch: master
+  branch: main
